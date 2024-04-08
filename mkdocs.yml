@@ -1,0 +1,55 @@
+site_name: Martijn Lammers Portfolio
+
+repo_url: https://github.com/martijnlammers/martijnlammers.github.io
+theme: 
+  name: material
+  features:
+    - navigation.instant
+    - navigation.footer
+    # - navigation.tabs 
+    - navigation.sections
+    - header.autohide
+    - search.suggest
+    - search.highlight
+    - content.code.copy
+    - content.tabs.link
+    - content.code.annotation
+  language: en
+  palette:
+    - scheme: default
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: Switch to dark mode
+      primary: indigo
+      accent: indigo
+    - scheme: slate 
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to light mode 
+      primary: indigo
+      accent: indigo
+
+copyright: Martijn Lammers Portfolio
+markdown_extensions:
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - attr_list
+  - md_in_html
+  - tables
+  # - pymdownx.emoji:
+  #     emoji_index: !!python/name:material.extensions.emoji.twemoji
+  #     emoji_generator: !!python/name:material.extensions.emoji.to_svg
+
+plugins:
+  - offline
+
+extra:
+  social:
+    - icon: fontawesome/brands/github-alt
+      link: https://github.com/martijnlammers
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/martijnlammers1/
+  
