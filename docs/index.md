@@ -1,12 +1,6 @@
 # About Me
 
-![Image title](https://media.licdn.com/dms/image/C4E03AQGFd4QEmkphMw/profile-displayphoto-shrink_200_200/0/1659435101367?e=1718236800&v=beta&t=l8hLSLO00Em7lk3mVwBXmBg6DaswwRFOvEZ7muf7kQU){ align=left }
-
-The picture on the left was taken on a trip to London in 'Dopamine Land', an interactive 
-museum with a bunch of rooms playing on the sensory stimulation of a person. In my opinion a worthwhile experience, you can make interesting pictures while inside, would recommend.
-
-Anyways... hello! My name is Martijn, I'm 
-
+todo
 
  
 ## Who am I
