@@ -1,17 +1,24 @@
+---
+hide:
+  - navigation
+---
+
 # Coding Challenges
+
 
 
 #### Advent Of Code 2015
 === "Preview"
 
-    ![AdventOfCode2015](../images/advent_of_code.png){ align=left }
+    ![Image title](https://dummyimage.com/250x250/eee/aaa){ align=left }
+
+    
     
 === "Technologies"
     | Tool      | Usage                          |
     | ----------- | ------------------------------------ |
-    | Python       | Programming language  |
-    | OpenGL      | Computer graphics library |
-    | Docker | Containerizing application | 
-    | Git | Version Management | 
+    | `Rust`       | Programming language  |
+    | `Git` | Version Management | 
+
 ###### Repository: [AdventOfCode](https://github.com/martijnlammers/AdventOfCode)
----
+

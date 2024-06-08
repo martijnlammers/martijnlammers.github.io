@@ -1,2 +1,7 @@
+---
+hide:
+  - navigation
+---
+
 # Machine Learning
 

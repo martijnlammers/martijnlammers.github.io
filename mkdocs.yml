@@ -10,14 +10,10 @@ theme:
     - navigation.instant.prefetch
     - navigation.tabs
     - navigation.tabs.sticky
-    # - navigation.tabs 
-    # - navigation.sections
-    # - header.autohide
-    # - search.suggest
-    # - search.highlight
-    # - content.code.copy
-    # - content.tabs.link
+    - navigation.prune
     - content.code.annotation
+  navigation:
+    - hide
   language: en
   palette:
     - scheme: default
@@ -34,13 +30,14 @@ theme:
       primary: black
       accent: indigo
 
-copyright: Martijn Lammers Portfolio
 markdown_extensions:
   - pymdownx.superfences
   - pymdownx.tabbed:
       alternate_style: true
   - pymdownx.highlight:
       anchor_linenums: true
+  - toc:
+      toc_depth: "4"
   - attr_list
   - md_in_html
   - tables
@@ -54,3 +51,6 @@ extra:
 
 plugins:
   - glightbox
+
+
+

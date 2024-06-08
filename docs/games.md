@@ -1,3 +1,8 @@
+---
+hide:
+  - navigation
+---
+
 # Games
 
 #### Godot 2D Fighting Game
