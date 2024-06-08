@@ -2,6 +2,7 @@ site_name: Martijn Lammers Portfolio
 
 repo_url: https://github.com/martijnlammers/martijnlammers.github.io
 theme: 
+  custom_dir: overrides
   name: material
   features:
     - navigation.footer
@@ -10,10 +11,11 @@ theme:
     - navigation.instant.prefetch
     - navigation.tabs
     - navigation.tabs.sticky
-    - navigation.prune
     - content.code.annotation
-  navigation:
-    - hide
+    - search.suggest
+    - search.highlight
+    - header.autohide
+    - announce.dismiss
   language: en
   palette:
     - scheme: default
@@ -51,6 +53,7 @@ extra:
 
 plugins:
   - glightbox
+  - search
 
 
 
