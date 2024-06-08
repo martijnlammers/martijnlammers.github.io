@@ -13,7 +13,6 @@ theme:
     - navigation.tabs.sticky
     - content.code.annotation
     - search.suggest
-    - search.highlight
     - header.autohide
     - announce.dismiss
   language: en
