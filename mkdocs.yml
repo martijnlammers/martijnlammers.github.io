@@ -4,8 +4,12 @@ repo_url: https://github.com/martijnlammers/martijnlammers.github.io
 theme: 
   name: material
   features:
-    - navigation.instant
     - navigation.footer
+    - navigation.instant
+    - navigation.instant.progress
+    - navigation.instant.prefetch
+    - navigation.tabs
+    - navigation.tabs.sticky
     # - navigation.tabs 
     # - navigation.sections
     # - header.autohide
@@ -27,7 +31,7 @@ theme:
       toggle:
         icon: material/toggle-switch
         name: Switch to light mode 
-      primary: indigo
+      primary: black
       accent: indigo
 
 copyright: Martijn Lammers Portfolio
@@ -50,4 +54,3 @@ extra:
 
 plugins:
   - glightbox
-  
