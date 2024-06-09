@@ -26,33 +26,20 @@ hide:
 
         Participate or learn more here: [adventofcode.com](https://adventofcode.com/)
         
-    === "Summary"
+    === "Tooling"
+      
+        `Programming languages`
 
-    
-        <div class="grid cards" markdown>
+            Rust
 
+        `Frameworks, libraries`
 
-
-        | Catagory<img style="width: 300px; height:0px; "> | Name<img style="width: 300px; height:0px;">| 
-        | -------------- | ------------------------------------  |
-        | Programming Languages  |  Rust, C++, Python   |
-        | Frameworks, Libraries       | N/A                     |
-        | Development Tools    | Git, Cargo, CMake              |
-
-        | Improvements<img style="width: 300px; height:0px; ">  | Description<img style="width: 300px; height:0px; "> |
-        | ----------- | ------------------------------------ |
-        | `GET`       | :material-check:     |
-        | `PUT`       | :material-check-all: Update resource |
-        | `DELETE`    | :material-close:     Delete resource |
-
-        </div>
-    
-
+            N/A    
         
+        `Development tools`
 
+            Git
 
-
-
-   
-    
+    === "Visuals"
+        ![AoC2015](./images/advent_of_code.png){ align=center }
 </div>
