@@ -6,7 +6,6 @@ hide:
 
 # Coding Challenges
 
-
 <div class="grid cards" markdown>
 
 -   <h1 style="margin-top:-10px; margin-bottom:-15px">
