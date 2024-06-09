@@ -12,17 +12,24 @@ hide:
     </h1>
     <br>
     <h6 style="margin-top:-5px; margin-bottom:-10px;">
-            Repository: [AdventOfCode](https://github.com/martijnlammers/AdventOfCode) 
+            Repository: [Python Rubix Cube](https://github.com/martijnlammers/martijnlammers.github.io/tree/py-rubix-cube) 
     </h6> 
 
     === ">"
     === "Description"
         
-        Advent Of Code is a annual coding challenge in the theme of christmas spirit. For 25 days long,
-        a new puzzle with varying difficulty is unlocked. These challenges are an excellent excersise for 
-        learning new programming languages and honing problem solving skills. 
+        This project originated as an assignment for my computer graphics course, which got 
+        afterwork love since I thought it was a cool. The Rubix Cube
+        is created out of 27 cube objects.
+        The cube objects consist of 6 polygons with different colours.
+        After creation, the cube is translated into the right position.
 
-        Participate or learn more here: [adventofcode.com](https://adventofcode.com/)
+        When you rotate a slice, it'll replace the old cube colours with new cube colours. 
+        Doing this was easier than rotating a layer, although I might consider doing this in the 
+        future.
+
+        After the rubix cube and colours are set in place, a light source was added.
+        The small cubes were made slightly clear in order to give them a glassy effect.
         
     === "Tooling"
       
@@ -39,5 +46,5 @@ hide:
             Git
 
     === "Visuals"
-        ![AoC2015](./images/advent_of_code.png){ align=center }
+        ![Rubix Cube](./images/rubix.gif){ width=400px align=center }
 </div>
