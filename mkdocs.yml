@@ -1,6 +1,5 @@
 site_name: Martijn Lammers Portfolio
 
-repo_url: https://github.com/martijnlammers/martijnlammers.github.io
 theme: 
   # custom_dir: overrides
   name: material
