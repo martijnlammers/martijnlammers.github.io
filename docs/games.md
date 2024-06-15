@@ -15,7 +15,6 @@ hide:
             Repository: [Python Rubix Cube](https://github.com/martijnlammers/martijnlammers.github.io/tree/py-rubix-cube) 
     </h6> 
 
-    === ">"
     === "Description"
         
         This project originated as an assignment for my computer graphics course, which got 
@@ -39,11 +38,15 @@ hide:
 
         `Frameworks, libraries`
 
-            OpenGL 
+            OpenGL / Vulkan
         
         `Development tools`
 
             Git
+
+        `Other`
+
+            N/A
 
     === "Visuals"
         ![Rubix Cube](./images/rubix.gif){ width=400px align=center }

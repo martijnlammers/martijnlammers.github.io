@@ -9,14 +9,13 @@ hide:
 <div class="grid cards" markdown>
 
 -   <h1 style="margin-top:-10px; margin-bottom:-15px">
-        *Advent Of Code* 
+        *Advent Of Code (WIP)* 
     </h1>
     <br>
     <h6 style="margin-top:-5px; margin-bottom:-10px;">
             Repository: [AdventOfCode](https://github.com/martijnlammers/AdventOfCode) 
     </h6> 
 
-    === ">"
     === "Description"
         
         Advent Of Code is a annual coding challenge in the theme of christmas spirit. For 25 days long,
@@ -38,6 +37,10 @@ hide:
         `Development tools`
 
             Git
+
+        `Other`
+
+            Test-driven development
 
     === "Visuals"
         ![AoC2015](./images/advent_of_code.png){ align=center }
