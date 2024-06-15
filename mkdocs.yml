@@ -1,5 +1,19 @@
 site_name: Martijn Lammers Portfolio
 
+nav:
+  - Coding Challenges:
+    - index.md
+  - Games:
+    - games.md
+  - Machine Learning:
+    - machine_learning.md
+  - Simulations:
+    - simulations.md
+  - Tools:
+    - tools.md
+  - Other:
+    - other.md
+
 theme: 
   # custom_dir: overrides
   name: material
